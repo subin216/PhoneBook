@@ -2,6 +2,7 @@
   "name": "phone-book",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://subin216.github.io/PhoneBook/",
   "dependencies": {
     "react": "^16.8.4",
     "react-dom": "^16.8.4",
